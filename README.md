@@ -8,7 +8,7 @@ I've been studying to be a full stack developer. I'm very passionate about cars 
 
 * 🌍  I'm based in Itanhandu, Minas Gerais, Brazil
 * ✉️  You can contact me at [felipedevnunes@gmail.com](mailto:felipedevnunes@gmail.com)
-* 🧠  I'm learning Typescript, OOP and SOLID.
+* 🧠  I'm learning MongoDB.
 * 🤝  I'm open to collaborating on React projects, Vanilla JS, Express projects, Mysql and Sequelize
 
 <a href="https://www.twitter.com/NelipeFunes" target="_blank" rel="noreferrer"><img
