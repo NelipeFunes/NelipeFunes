@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Felipe Nunes
 ====================================================================================================================================
 
-Full Stack Developer Jr.
+Full Stack Developer
 ------------------------
 
 I've been studying to be a full stack developer. I'm very passionate about cars and how things work. A phrase that represents me is that if you have a good cup of coffe in your hand, nothing is impossible.
