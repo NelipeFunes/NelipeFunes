@@ -6,7 +6,7 @@ Full Stack Developer
 
 I'm a full stack developer. I'm very passionate about cars and how things work. A phrase that represents me is that if you have a good cup of coffe in your hand, nothing is impossible.
 
-* 🌍  I'm based in Itanhandu, Minas Gerais, Brazil
+* 🌍  I'm based in Santa Rita do Sapucai, Minas Gerais, Brazil
 * ✉️  You can contact me at [felipedevnunes@gmail.com](mailto:felipedevnunes@gmail.com)
 * 🧠  I'm learning Nest.js
 
